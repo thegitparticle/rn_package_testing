@@ -13,6 +13,13 @@ const packages = [
     details: 'shows preview of link content',
     screen_name: 'RNUrlPreviewTGP',
   },
+
+  {
+    name: 'Iconly test - react-native-custom-icon',
+    details:
+      'converting iconly icons to work for RN with help of custom-icon package',
+    screen_name: 'Iconly',
+  },
 ];
 
 function AppHomePage({navigation}) {

@@ -5864,6 +5864,11 @@ react-native-codegen@^0.0.6:
     jscodeshift "^0.11.0"
     nullthrows "^1.1.1"
 
+react-native-custom-icon@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/react-native-custom-icon/-/react-native-custom-icon-0.0.3.tgz#e716115adc35dc9f0e7e6ee3daaf7be8e70b4a14"
+  integrity sha512-JuZ0Y1R5+Z7vg8Ityi+L8d8gAJJunbod47d4pUUqWawxLXpvGAW2msyD4aHWQHLSE71lWdK3ey/KVopTG0QnGQ==
+
 react-native-elements@^3.4.1:
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/react-native-elements/-/react-native-elements-3.4.1.tgz#74ea15a9369b05abf4f7421f0ce236ca01fedfe1"
