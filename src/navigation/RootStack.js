@@ -5,6 +5,7 @@ import {NavigationContainer} from '@react-navigation/native';
 import RNUrlPreviewTGP from '../screens/RNUrlPreviewTGP';
 import ReplaceThis from '../screens/DummyLibTestPage';
 import Iconly from '../screens/Iconly';
+import ImageMarkerX from '../screens/ImageMarker';
 
 const HomeStack = createStackNavigator();
 
@@ -16,6 +17,7 @@ function RootStack() {
         <HomeStack.Screen name="RNUrlPreviewTGP" component={RNUrlPreviewTGP} />
         <HomeStack.Screen name="DummyLibTestPage" component={ReplaceThis} />
         <HomeStack.Screen name="Iconly" component={Iconly} />
+        <HomeStack.Screen name="ImageMarker" component={ImageMarkerX} />
       </HomeStack.Navigator>
     </NavigationContainer>
   );

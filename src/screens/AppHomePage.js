@@ -15,6 +15,12 @@ const packages = [
   },
 
   {
+    name: 'react-native-image-marker',
+    details: '',
+    screen_name: 'ImageMarker',
+  },
+
+  {
     name: 'Iconly test - react-native-custom-icon',
     details:
       'converting iconly icons to work for RN with help of custom-icon package',
